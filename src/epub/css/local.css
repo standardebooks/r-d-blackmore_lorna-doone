@@ -1,19 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* LETTERS */
-[epub|type~="z3998:letter"] header{
-	text-align: right;
+[epub|type~="se:era"]{
+	font-variant: all-small-caps;
 }
 
+/* LETTERS */
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:sender"],
-[epub|type~="z3998:recipient"],
-[epub|type~="z3998:salutation"],
-[epub|type~="z3998:signature"]{
+[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 /* end letters */
@@ -37,7 +34,6 @@
 	display: none;
 }
 
-[epub|type~="z3998:poem"] p + p,
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
