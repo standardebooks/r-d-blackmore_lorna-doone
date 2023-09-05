@@ -49,9 +49,3 @@ p span.i1{
 	text-indent: -1em;
 }
 /* end verse+ */
-/* Endnotes styling, notes 4, 6, 8, 11 */
-
-[epub|type~="se:name.publication.book"]{
-	font-style: italic;
-}
-/* end endnotes */
