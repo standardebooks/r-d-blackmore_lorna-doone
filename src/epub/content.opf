@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-09-05T20:59:31Z</dc:date>
+		<meta property="dcterms:modified">2023-09-05T20:59:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -51,16 +51,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young yeoman farmer falls in love with a beautiful girl who belongs to the outlaw clan which killed his father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The young yeoman farmer, John Ridd, chances upon a beautiful girl in an injudicious visit to a secret valley. It is a brief but literally life-defining moment, for John falls in love at first sight. Yet there are complications. That valley was the stronghold of the outlaw Doone family, and the young beauty was the prize of the clan. Beyond that, one of the Doones had, years earlier, killed John Ridd’s father. This simple encounter sets up a complex story, as there are yet more obstacles than these to the path of love for the two young people.&lt;/p&gt;
+			&lt;p&gt;John Ridd, a young yeoman farmer, chances upon a beautiful girl in an injudicious visit to a secret valley. It’s a brief but life-defining moment, for John falls in love at first sight. Yet there are complications. That valley was the stronghold of the outlaw Doone family, and the young beauty was the prize of the clan. Beyond that, one of the Doones had, years earlier, killed John Ridd’s father. This simple encounter sets up a complex story, as there are yet more obstacles than these on the couple’s path of love.&lt;/p&gt;
 			&lt;p&gt;John Ridd himself narrates the book in his simple fashion. Apologizing for his many digressions even while indulging them, and protesting his honesty throughout, he tells the story of how he attempted to win the hand of Lorna Doone as his bride. The tale of romance is embedded in his many other adventures. The chronological setting is late 17th century, which saw the uprising of the Duke of Monmouth against James II. This connects with the book’s geographical setting: Exmoor, on the border of the counties of Devon and Somerset, and the heartland of support for the Monmouth rebellion.&lt;/p&gt;
-			&lt;p&gt;In some ways, the landscape—not solely confined to Exmoor—serves as another character in the novel. It was the setting of &lt;a href="https://standardebooks.org/ebooks/r-d-blackmore"&gt;Blackmore’s&lt;/a&gt; own youth, and he knew it well. The rhythms of nature, dangerous ravines, the harsh winter of 1683–4, violent rivers, cultivated fields—all are described by the narrator with a graceful simplicity that won the admiration of &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy&lt;/a&gt;, also known for his evocative descriptive passages. The literary critic Northrop Frye even perceived in these aspects of the natural world something of a mythic undertone in Blackmore’s work.&lt;/p&gt;
-			&lt;p&gt;The novel is generally regarded more as “historical romance” than “historical fiction,” and perhaps critically undervalued for its melodrama. It gained popularity only slowly after its first publication, but in time became a firm favorite. Its enduring appeal is attested by its seven (at least) film and television adaptations, between 1912 and 2000.&lt;/p&gt;
+			&lt;p&gt;In some ways, the landscape—not solely confined to Exmoor—serves as another character in the novel. It was the setting of &lt;a href="https://standardebooks.org/ebooks/r-d-blackmore"&gt;Blackmore’s&lt;/a&gt; own youth, and he knew it well. The rhythms of nature, dangerous ravines, the harsh winter of 1683–4, violent rivers, cultivated fields—all are described by the narrator with a graceful simplicity that won the admiration of &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy&lt;/a&gt;, also known for his evocative prose. The literary critic Northrop Frye even perceived in these aspects of the natural world something of a mythic undertone in Blackmore’s work.&lt;/p&gt;
+			&lt;p&gt;The novel is generally regarded more as “historical romance” than “historical fiction,” and perhaps critically undervalued for its melodrama. It gained popularity only slowly after its first publication, but in time became a firm favorite. Its enduring appeal is attested to by its various film and television adaptations between 1912 and 2000.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17460</dc:source>
 		<dc:source>https://archive.org/details/lornadooneromanc00blac</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">273033</meta>
+		<meta property="se:reading-ease.flesch">69.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lorna_Doone</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-d-blackmore_lorna-doone</meta>
 		<dc:creator id="author">R. D. Blackmore</dc:creator>
@@ -88,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
