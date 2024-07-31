@@ -59,7 +59,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17460</dc:source>
 		<dc:source>https://archive.org/details/lornadooneromanc00blac</dc:source>
-		<meta property="se:word-count">273033</meta>
+		<meta property="se:word-count">273027</meta>
 		<meta property="se:reading-ease.flesch">69.75</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lorna_Doone</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-d-blackmore_lorna-doone</meta>
