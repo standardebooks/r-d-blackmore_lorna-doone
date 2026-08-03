@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone</dc:identifier>
 		<dc:date>2023-09-05T20:59:31Z</dc:date>
@@ -51,13 +51,13 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young yeoman farmer falls in love with a beautiful girl who belongs to the outlaw clan which killed his father.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young yeoman farmer falls in love with a beautiful girl who belongs to the outlaw clan which killed his father.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;John Ridd, a young yeoman farmer, chances upon a beautiful girl in an injudicious visit to a secret valley. It’s a brief but life-defining moment, for John falls in love at first sight. Yet there are complications. That valley was the stronghold of the outlaw Doone family, and the young beauty was the prize of the clan. Beyond that, one of the Doones had, years earlier, killed John Ridd’s father. This simple encounter sets up a complex story, as there are yet more obstacles than these on the couple’s path of love.&lt;/p&gt;
 			&lt;p&gt;John Ridd himself narrates the book in his simple fashion. Apologizing for his many digressions even while indulging them, and protesting his honesty throughout, he tells the story of how he attempted to win the hand of Lorna Doone as his bride. The tale of romance is embedded in his many other adventures. The chronological setting is late 17th century, which saw the uprising of the Duke of Monmouth against James II. This connects with the book’s geographical setting: Exmoor, on the border of the counties of Devon and Somerset, and the heartland of support for the Monmouth rebellion.&lt;/p&gt;
 			&lt;p&gt;In some ways, the landscape—not solely confined to Exmoor—serves as another character in the novel. It was the setting of &lt;a href="https://standardebooks.org/ebooks/r-d-blackmore"&gt;Blackmore’s&lt;/a&gt; own youth, and he knew it well. The rhythms of nature, dangerous ravines, the harsh winter of 1683–4, violent rivers, cultivated fields—all are described by the narrator with a graceful simplicity that won the admiration of &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy&lt;/a&gt;, also known for his evocative prose. The literary critic Northrop Frye even perceived in these aspects of the natural world something of a mythic undertone in Blackmore’s work.&lt;/p&gt;
 			&lt;p&gt;The novel is generally regarded more as “historical romance” than “historical fiction,” and perhaps critically undervalued for its melodrama. It gained popularity only slowly after its first publication, but in time became a firm favorite. Its enduring appeal is attested to by its various film and television adaptations between 1912 and 2000.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/17460</dc:source>
 		<dc:source>https://archive.org/details/lornadooneromanc00blac</dc:source>
